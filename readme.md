@@ -8,7 +8,7 @@
 ### 一、安装
 #### 1.1 克隆代码
 ```shell
-git clone 
+git clone https://github.com/disingn/wxtoken.git
 ```
 #### 1.2 构建程序
 ```shell
