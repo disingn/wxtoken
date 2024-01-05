@@ -108,6 +108,6 @@ docker-compose up -d
 QQ: 814702872
 
 ### 四、演示公众号
-[![pivOEkD.jpg](https://s11.ax1x.com/2024/01/04/pivOEkD.jpg)](https://imgse.com/i/pivOEkD)
+[![pivOEkD.jpg](https://file.bxsai.net/file/c0a2c228)](https://file.bxsai.net/file/c0a2c228)
 
 
